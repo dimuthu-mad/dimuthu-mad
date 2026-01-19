@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dimuthu-madu
 - 👀 I’m interested in Programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : dimuthumaduranga96@gmail.com
 
 <!---
